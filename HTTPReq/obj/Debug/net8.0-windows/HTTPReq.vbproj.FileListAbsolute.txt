@@ -1,0 +1,16 @@
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\bin\Debug\net8.0-windows\HTTPReq.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\bin\Debug\net8.0-windows\HTTPReq.deps.json
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\bin\Debug\net8.0-windows\HTTPReq.runtimeconfig.json
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\bin\Debug\net8.0-windows\HTTPReq.dll
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\bin\Debug\net8.0-windows\HTTPReq.pdb
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.Form1.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.AssemblyInfoInputs.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.AssemblyInfo.vb
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.dll
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\refint\HTTPReq.dll
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.pdb
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\HTTPReq.genruntimeconfig.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\HTTPReq\obj\Debug\net8.0-windows\ref\HTTPReq.dll

@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\Projects\\VB.net\\TPA_Denpasar\\HTTPReader\\HTTPReader.vbproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\Projects\\VB.net\\TPA_Denpasar\\HTTPReader\\HTTPReader.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Projects\\VB.net\\TPA_Denpasar\\HTTPReader\\HTTPReader.vbproj",
+        "projectName": "HTTPReader",
+        "projectPath": "D:\\Documents\\Projects\\VB.net\\TPA_Denpasar\\HTTPReader\\HTTPReader.vbproj",
+        "packagesPath": "C:\\Users\\arimogi\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\VB.net\\TPA_Denpasar\\HTTPReader\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\arimogi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.8.2365, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
