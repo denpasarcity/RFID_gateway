@@ -1,0 +1,10 @@
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\bin\Debug\TPA_DenpasarGateway.exe.config
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\bin\Debug\TPA_DenpasarGateway.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\bin\Debug\TPA_DenpasarGateway.pdb
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\obj\Debug\TPADenpasarGateway.vbproj.AssemblyReference.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frUHFReader.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\obj\Debug\Resources.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\obj\Debug\TPADenpasarGateway.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\obj\Debug\TPADenpasarGateway.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\obj\Debug\TPA_DenpasarGateway.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID_Serial_2\WindowsFormsApp1\obj\Debug\TPA_DenpasarGateway.pdb

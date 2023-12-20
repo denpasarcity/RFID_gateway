@@ -1,0 +1,8 @@
+D:\Documents\Projects\VB.net\TPA_Denpasar\Reader2web\Reader2web\bin\Debug\ProjectTemplates\VisualBasic\1033\Reader2web.zip
+D:\Documents\Projects\VB.net\TPA_Denpasar\Reader2web\Reader2web\obj\Debug\Reader2web.vbproj.AssemblyReference.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\Reader2web\Reader2web\obj\Debug\_EmptyResource.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\Reader2web\Reader2web\obj\Debug\Reader2web.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\Reader2web\Reader2web\obj\Debug\Reader2web.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\Reader2web\Reader2web\obj\Debug\VisualBasic\1033\Reader2web.zip
+D:\Documents\Projects\VB.net\TPA_Denpasar\Reader2web\Reader2web\obj\Debug\Reader2web.dll
+D:\Documents\Projects\VB.net\TPA_Denpasar\Reader2web\Reader2web\obj\Debug\Reader2web.pdb

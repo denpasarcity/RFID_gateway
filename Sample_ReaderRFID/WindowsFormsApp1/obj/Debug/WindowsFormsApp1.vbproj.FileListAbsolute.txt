@@ -1,0 +1,27 @@
+E:\Code\Reader_Demo\UHF_READER_Access\Prime Reader Demo\VB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Code\Reader_Demo\UHF_READER_Access\Prime Reader Demo\VB\WindowsFormsApp1\obj\Debug\Resources.resources
+E:\Code\Reader_Demo\UHF_READER_Access\Prime Reader Demo\VB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.vbproj.GenerateResource.cache
+E:\Code\Reader_Demo\UHF_READER_Access\Prime Reader Demo\VB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.vbproj.CoreCompileInputs.cache
+E:\Code\Reader_Demo\UHF_READER_Access\Prime Reader Demo\VB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Code\Reader_Demo\UHF_READER_Access\Prime Reader Demo\VB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Code\Reader_Demo\UHF_READER_Access\Prime Reader Demo\VB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Code\Reader_Demo\UHF_READER_Access\Prime Reader Demo\VB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.vbproj.AssemblyReference.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\obj\Debug\Resources.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.vbproj.AssemblyReference.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\obj\Debug\Resources.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\Sample_ReaderRFID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

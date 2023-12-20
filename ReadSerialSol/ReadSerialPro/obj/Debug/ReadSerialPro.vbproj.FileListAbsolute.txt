@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\bin\Debug\ReadSerialPro.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\bin\Debug\ReadSerialPro.exe.config
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\bin\Debug\ReadSerialPro.pdb
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\bin\Debug\ReadSerialPro.xml
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\obj\Debug\ReadSerialPro.vbproj.AssemblyReference.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\obj\Debug\ReadSerialPro.frReadSerial.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\obj\Debug\ReadSerialPro.Resources.resources
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\obj\Debug\ReadSerialPro.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\obj\Debug\ReadSerialPro.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\obj\Debug\ReadSerialPro.exe
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\obj\Debug\ReadSerialPro.xml
+D:\Documents\Projects\VB.net\TPA_Denpasar\ReadSerialSol\ReadSerialPro\obj\Debug\ReadSerialPro.pdb

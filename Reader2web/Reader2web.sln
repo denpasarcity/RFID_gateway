@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Reader2web", "Reader2web\Reader2web.vbproj", "{4191F807-2D50-482C-887A-713C59F4B6E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|arm64 = Debug|arm64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|arm64 = Release|arm64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Debug|arm64.ActiveCfg = Debug|arm64
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Debug|arm64.Build.0 = Debug|arm64
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Debug|x86.ActiveCfg = Debug|x86
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Debug|x86.Build.0 = Debug|x86
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Release|arm64.ActiveCfg = Release|arm64
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Release|arm64.Build.0 = Release|arm64
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Release|x86.ActiveCfg = Release|x86
+		{4191F807-2D50-482C-887A-713C59F4B6E8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD6B76DC-6DBC-4161-A1B0-86732F2D93D6}
+	EndGlobalSection
+EndGlobal
